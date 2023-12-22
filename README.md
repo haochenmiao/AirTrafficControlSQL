@@ -37,15 +37,22 @@ This repository contains the following SQL files:
 To run these scripts:
 
 Open the desired SQL file in your SQL database management tool.
+
 Ensure you are connected to the Azure-hosted flight database.
+
 Execute the script.
 
 ## Contributing
 We welcome contributions to this repository. If you have a suggestion for an improvement or a new feature, please follow these steps:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature/YourFeature).
+
 Make your changes.
+
 Commit your changes (git commit -am 'Add some feature').
+
 Push to the branch (git push origin feature/YourFeature).
+
 Open a pull request.
