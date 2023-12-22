@@ -1,0 +1,19 @@
+In my experience, utilizing a cloud-hosted Database Management System (DBMS) like SQLServer on Microsoft's Azure platform has been quite enlightening and offers a load of benefits. The ease of setup, accessibility from anywhere, and the robust set of tools available are just the tip of the iceberg in my opinion.
+
+Here are some of the reasons why I would recommend it to my fellow classmates, and future co-workers for the project.
+
+Firstly, it is very easy to set up database on Azure, After the following the necessary steps offered by Prof. Maas and the TAs, I was able to run it without any technical nor hardware issues.
+
+Secondly, while there is a learning curve associated with understanding the Azure platform, the wealth of documentation and community support significantly eased this process. Moreover, the platform’s user-friendly interface made it easier to navigate through various options and configurations.
+
+Thirdly, Azure is a well-acknowledged cloud service utilized across numerous industries. Being proficient in using Azure's DBMS not only equips other students with a critical skill but also provides an insight into real-world, industry-relevant tools and practices.
+
+Fourthly, Azure offers certification exams that are recognized in the industry. By experimenting and tinkering with SQLServer on Azure, I found myself better prepared for these certification exams. The practical experience gained is invaluable and goes a long way in understanding the theoretical concepts required for certification.
+
+Fifthly, working on projects with fellow students or colleagues becomes significantly more manageable with a cloud-hosted DBMS. The ability to share access and collaborate in real-time, regardless of geographical location, is a massive plus.
+
+Sixthly, the scalable nature of Azure's DBMS allows for easy adjustments to the resources based on the project requirements. This scalability is especially beneficial for experimentation as it provides the flexibility to test and implement different scenarios without worrying about resource constraints.
+
+Lastly, given the positive experience and the myriad of features offered, such as AI, I would highly recommend Azure's DBMS for future projects, be it academic or professional. The platform provides a stable, scalable, and accessible environment for database management which is crucial for successful project execution.
+
+In conclusion, I would highly recommend Azure's SQLServer to a fellow student for tinkering/ experimentation, and equally to future co-workers for their projects. The knowledge and experience gained from using a cloud-hosted DBMS like Azure's SQLServer are immensely beneficial and prepare individuals for the evolving tech-centric professional landscape.
